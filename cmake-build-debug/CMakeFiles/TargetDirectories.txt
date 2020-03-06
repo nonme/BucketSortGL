@@ -1,3 +1,0 @@
-C:/Users/dmitr/CLionProjects/BucketSort/cmake-build-debug/CMakeFiles/BucketSort.dir
-C:/Users/dmitr/CLionProjects/BucketSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dmitr/CLionProjects/BucketSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
