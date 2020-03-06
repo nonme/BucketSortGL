@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dmitr/CLionProjects/BucketSort/TestRunner.h
+sstream
+-
+vector
+-
+
+C:/Users/dmitr/CLionProjects/BucketSort/bucket_sort.h
+vector
+-
+list
+-
+
+C:/Users/dmitr/CLionProjects/BucketSort/main.cpp
+iostream
+-
+list
+-
+random
+-
+bucket_sort.h
+C:/Users/dmitr/CLionProjects/BucketSort/bucket_sort.h
+TestRunner.h
+C:/Users/dmitr/CLionProjects/BucketSort/TestRunner.h
+
